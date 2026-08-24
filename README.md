@@ -1,2 +1,1 @@
-# Snake AI
- Snake game with AI developed in py
+Snake game developed in py
